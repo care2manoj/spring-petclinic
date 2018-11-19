@@ -212,9 +212,8 @@
       <url>http://www.apache.org/licenses/LICENSE-2.0</url>
     </license>
   </licenses>
-
-</project>
-<distributionManagement>
+    
+    <distributionManagement>
     <repository>
         <id>central</id>
         <name>ip-172-31-44-254.ec2.internal-releases</name>
@@ -226,4 +225,7 @@
         <url>http://35.174.9.203:8081/artifactory/petclinic</url>
     </snapshotRepository>
 </distributionManagement>
+
+</project>
+
 
